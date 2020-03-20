@@ -1,14 +1,14 @@
 {
-  "name": "node-api3-project",
+  "name": "node-api4-project",
   "version": "1.0.0",
-  "description": "Node API 3 Project",
+  "description": "Node API 4 Project",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LambdaSchool/node-api3-project.git"
+    "url": "git+https://github.com/LambdaSchool/node-api4-project.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   ],
   "author": "Lambda School",
   "bugs": {
-    "url": "https://github.com/LambdaSchool/node-api3-project/issues"
+    "url": "https://github.com/LambdaSchool/node-api4-project/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/node-api3-project#readme",
+  "homepage": "https://github.com/LambdaSchool/node-api4-project#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
